@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672912523 source:d:\kody do code blocksa\kolko_i_krzyzyk\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
